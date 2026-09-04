@@ -1,4 +1,4 @@
-# mtDNA-wide off-Target editing analysis
+# mtDNA-wide off-target editing analysis
 
 Pipeline for computing mtDNA-wide C→T / G→A off-target editing
 frequency from sequencing data. It excludes on-target sites and background
@@ -130,8 +130,7 @@ python reditool-outTable-processed-analysis_final.py
 ## Output
 
 - **`combined_editing_summary1.csv`**: per-sample off-target edited-site
-  counts, mtDNA-wide off-target editing frequency (%), and ND1/ND4 on-target
-  frequency (%)
+  counts, mtDNA-wide off-target editing frequency (%), and on-target editing frequency (%)
 - **`volcano_{condition}.svg / .pdf`**: mtDNA position (x-axis) vs. editing
   frequency (y-axis), replicate mean ± SD, on-target (vermillion) vs.
   off-target CT/GA (blue)
