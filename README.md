@@ -1,10 +1,10 @@
-# mtDNA Off-Target Editing Analysis Pipeline
+# mtDNA-wide off-Target editing analysis
 
 Pipeline for computing mtDNA-wide C→T / G→A off-target editing
 frequency from sequencing data. It excludes on-target sites and background
 germline SNVs, then generates volcano-style visualizations.
 
-## Pipeline Overview
+## Pipeline overview
 
 ```
 samples.txt
