@@ -137,8 +137,3 @@ python reditool-outTable-processed-analysis_final.py
   off-target CT/GA (blue)
 
 
-## Citation
-
-If you use this pipeline in a publication or preprint, please cite the
-corresponding paper. *(add citation info here)*
-
